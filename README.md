@@ -3,7 +3,7 @@
 
 A **Library Book Management System** built with Python and Tkinter to manage books, borrowers, and due dates efficiently. This application provides an intuitive graphical user interface (GUI) for managing library operations such as adding, borrowing, returning, and tracking books.
 
-Made with passion by Josh, Aron & Rog
+Made with passion by Josh, Aron & Rog (Binary Brothers)
 
 ---
 
