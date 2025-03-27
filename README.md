@@ -1,5 +1,5 @@
 
-# Library Book Management Syste
+# Library Book Management System
 
 A **Library Book Management System** built with Python and Tkinter to manage books, borrowers, and due dates efficiently. This application provides an intuitive graphical user interface (GUI) for managing library operations such as adding, borrowing, returning, and tracking books.
 
@@ -116,7 +116,3 @@ README.md                 # Documentation file
 - Export library data to CSV or Excel format.
 - Add email notifications for overdue books.
 - Implement a dark mode for the UI.
-
----
-
-This README file provides a comprehensive overview of your project, making it easy for others to understand and use your application.
